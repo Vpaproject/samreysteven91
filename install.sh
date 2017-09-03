@@ -1,9 +1,9 @@
 #!/bin/bash
 # ******************************************
-# Program: PRO Autoscript Servis 
+# Program: Autoscript pro
 # Website: -
-# Developer: -
-# Nickname: -
+# Developer: bezita
+# Nickname: cinta
 # Date: 22-07-2016
 # Last Updated: 22-08-2017
 # ******************************************
@@ -135,7 +135,7 @@ echo "Webmin : http://$myip:10000/"  | tee -a log-install.txt
 echo "Squid3 : 8080"  | tee -a log-install.txt
 echo "OpenSSH : 22"  | tee -a log-install.txt
 echo "Dropbear : 443"  | tee -a log-install.txt
-echo "OpenVPN  : TCP 1194 (DAPATKAN OVPN DARI SAYA)"  | tee -a log-install.txt
+echo "OpenVPN  : TCP 1194 (SILA DAPATKAN DENGAN ORG YG JUAL SCRIPT INI)"  | tee -a log-install.txt
 echo "Fail2Ban : [on]"  | tee -a log-install.txt
 echo "Timezone : Asia/Kuala_Lumpur"  | tee -a log-install.txt
 echo "Menu : type menu to check menu script"  | tee -a log-install.txt
